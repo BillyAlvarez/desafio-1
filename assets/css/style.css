@@ -1,0 +1,62 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: rgb(8, 58, 92);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.cabecera{
+    text-align: center;
+}
+
+.separador1{
+    background-color: rgb(85, 138, 138);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+.separador2{
+    background-color: rgb(223, 110, 45);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+    font-size: 1rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+.separador3{
+    background-color: rgb(163, 87, 129);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+    font-size: 1rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+.separador4{
+    background-color: rgb(39, 185, 39);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+    font-size: 1rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+
+
